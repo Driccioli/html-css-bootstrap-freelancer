@@ -1,0 +1,28 @@
+.bg-azure{
+    background-color: rgb(25, 185, 185);
+    color:white;
+}
+
+.bg-white{
+    background-color: white;
+    color: rgb(29, 25, 37)
+}
+
+.start-bootstrap{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.start-bootstrap > .pic{
+    border: 1px solid white;
+    width: 150px;
+    height: 150px;
+}
+
+.portfolio > .pic{
+    border: 1px solid black;
+    border-radius:12px;
+    height: 150px;
+}
