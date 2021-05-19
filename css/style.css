@@ -8,15 +8,38 @@
     color: rgb(29, 25, 37)
 }
 
+.bg-dark{
+    background-color: rgb(39, 39, 54);
+    color: white;
+}
+
+.bg-darker{
+    background-color: rgb(15, 15, 19);
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
+
 .start-bootstrap{
     text-align: center;
-    font-size: 30px;
+    /* font-size: 30px; */
     font-weight: bold;
     padding-top: 100px;
     padding-bottom: 50px;
 }
 
+.star{
+    font-size: 30px;
+}
 
+.star > hr{
+    display: inline-block;
+    width: 60px;
+    height:5px;
+    opacity: 1;
+    border-radius: 10px;
+    margin-inline: 10px;
+}
 
 .portfolio > img{
     border-radius:12px;
@@ -24,7 +47,7 @@
 
 .text{
     text-align: left;
-    font-size: 15px;
+    /* font-size: 15px; */
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -32,3 +55,8 @@
 .text-align-left{
     text-align: left;
 }
+
+.round{
+    border-radius: 50%;
+}
+
