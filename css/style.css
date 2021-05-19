@@ -8,19 +8,20 @@
     color: rgb(29, 25, 37)
 }
 
+*{
+
+}
+
 .start-bootstrap{
     text-align: center;
     font-size: 30px;
     font-weight: bold;
     padding-top: 100px;
+    padding-bottom: 50px;
 }
 
-.start-bootstrap > img{
-    
-}
 
-.portfolio > .pic{
-    border: 1px solid black;
+
+.portfolio > img{
     border-radius:12px;
-    height: 150px;
 }
