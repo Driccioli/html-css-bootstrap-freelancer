@@ -12,13 +12,11 @@
     text-align: center;
     font-size: 30px;
     font-weight: bold;
-    padding: 20px;
+    padding-top: 100px;
 }
 
-.start-bootstrap > .pic{
-    border: 1px solid white;
-    width: 150px;
-    height: 150px;
+.start-bootstrap > img{
+    
 }
 
 .portfolio > .pic{
